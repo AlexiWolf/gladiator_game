@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug, draft
+assignees: ''
+
+---
+
 # Overview
 
 A short description of what went wrong.  Feel free to include screenshots,

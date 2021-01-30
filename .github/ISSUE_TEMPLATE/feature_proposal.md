@@ -1,3 +1,12 @@
+---
+name: Feature proposal
+about: Suggest an idea for this project
+title: ''
+labels: draft, enhancement
+assignees: ''
+
+---
+
 # Overview
 
 A short description of the whole feature request.
